@@ -1,0 +1,26 @@
+---
+title: ""
+author: "Ryan D. Crawford"
+date: "03/09/2022"
+output: pdf_document
+---
+
+
+![](../figures/2022_03_09_find_forward_hgt_cluster_transmission/2022_03_09_hgt_imp_counts.png)
+
+![](../figures/2022_03_09_find_forward_hgt_cluster_transmission/2022_03_09_shannon_diversity.png)
+
+![](../figures/2022_03_09_find_forward_hgt_cluster_transmission/2022_03_09_isolates_by_acquisition.png)
+
+![](../figures/2022_03_09_find_forward_hgt_cluster_transmission/2022_03_09_facilities_by_acquisition.png)
+
+![](../figures/2022_03_09_find_forward_hgt_cluster_transmission/2022_03_09_fac_propagation_per_acq.png)
+
+![](../figures/2022_03_09_find_forward_hgt_cluster_transmission/2022_03_09_fac_propagation_per_acq.png)
+
+![](../figures/2022_03_09_find_forward_hgt_cluster_transmission/2022_03_09_iso_counts_per_acq_log.png)
+
+![](../figures/2022_03_09_find_forward_hgt_cluster_transmission/2022_03_09_fac_counts_per_acq_log.png)
+
+![](../figures/2022_03_09_find_forward_hgt_cluster_transmission/2022_03_09_fac_counts_per_acq_log.png)
+

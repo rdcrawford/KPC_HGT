@@ -1,0 +1,264 @@
+---
+title: "Plot plasmid trace"
+author: "Ryan D. Crawford"
+date: "02/25/2022"
+output: pdf_document
+---
+
+
+## Gene cluster 1 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_1_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_1_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_1_cl_tree_plot.png)
+
+## Gene cluster 8 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_8_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_8_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_8_cl_tree_plot.png)
+
+## Gene cluster 37 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_37_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_37_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_37_cl_tree_plot.png)
+
+## Gene cluster 9 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_9_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_9_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_9_cl_tree_plot.png)
+
+## Gene cluster 7 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_7_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_7_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_7_cl_tree_plot.png)
+
+## Gene cluster 5 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_5_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_5_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_5_cl_tree_plot.png)
+
+## Gene cluster 3 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_3_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_3_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_3_cl_tree_plot.png)
+
+## Gene cluster 11 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_11_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_11_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_11_cl_tree_plot.png)
+
+## Gene cluster 47 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_47_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_47_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_47_cl_tree_plot.png)
+
+## Gene cluster 49 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_49_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_49_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_49_cl_tree_plot.png)
+
+## Gene cluster 45 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_45_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_45_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_45_cl_tree_plot.png)
+
+## Gene cluster 15 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_15_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_15_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_15_cl_tree_plot.png)
+
+## Gene cluster 31 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_31_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_31_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_31_cl_tree_plot.png)
+
+## Gene cluster 6 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_6_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_6_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_6_cl_tree_plot.png)
+
+## Gene cluster 14 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_14_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_14_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_14_cl_tree_plot.png)
+
+## Gene cluster 16 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_16_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_16_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_16_cl_tree_plot.png)
+
+## Gene cluster 20 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_20_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_20_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_20_cl_tree_plot.png)
+
+## Gene cluster 4 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_4_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_4_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_4_cl_tree_plot.png)
+
+## Gene cluster 19 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_19_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_19_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_19_cl_tree_plot.png)
+
+## Gene cluster 28 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_28_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_28_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_28_cl_tree_plot.png)
+
+## Gene cluster 62 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_62_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_62_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_62_cl_tree_plot.png)
+
+## Gene cluster 63 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_63_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_63_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_63_cl_tree_plot.png)
+
+## Gene cluster 61 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_61_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_61_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_61_cl_tree_plot.png)
+
+## Gene cluster 22 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_22_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_22_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_22_cl_tree_plot.png)
+
+## Gene cluster 60 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_60_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_60_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_60_cl_tree_plot.png)
+
+## Gene cluster 21 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_21_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_21_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_21_cl_tree_plot.png)
+
+## Gene cluster 24 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_24_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_24_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_24_cl_tree_plot.png)
+
+## Gene cluster 42 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_42_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_42_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_42_cl_tree_plot.png)
+
+## Gene cluster 2 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_2_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_2_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_2_cl_tree_plot.png)
+
+## Gene cluster 35 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_35_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_35_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_35_cl_tree_plot.png)
+
+## Gene cluster 10 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_10_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_10_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_10_cl_tree_plot.png)
+
+## Gene cluster 53 
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_53_target_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_53_tree_plot.png)
+
+![](../figures/2022_02_25_plot_plasmid_trace/2022_02_25_53_cl_tree_plot.png)
+

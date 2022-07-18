@@ -1,0 +1,10 @@
+
+Attaching package: ‘cluster’
+
+The following object is masked from ‘package:maps’:
+
+    votes.repub
+
+Making the matrix for: 7102 transitions and 211437 
+/var/spool/slurmd.spool/job31938951/slurm_script: line 15: 78537 Killed                  Rscript 2022_02_06_get_transition_edges_from_cognac_tree_mpr.R
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=31938951.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.

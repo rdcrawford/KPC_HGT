@@ -1,0 +1,4 @@
+Error in if (node.number == (Ntip(tree) + 1)) cat("Note: you chose to re-root the tree at it's current root.\n") : 
+  argument is of length zero
+Calls: sapply -> lapply -> FUN -> midpoint.root -> reroot
+Execution halted

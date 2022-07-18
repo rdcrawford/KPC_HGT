@@ -1,0 +1,45 @@
+pre-processing gff3 files...
+  0%|          | 0/330 [00:00<?, ?it/s]  0%|          | 0/330 [00:01<?, ?it/s]
+invalid gene! file - id:  ../data/genomes/panaroo_gff/Kp10072.gff  -  fig|6666666.759639.peg.2188
+Length: 3078 , Has stop: True
+invalid gene! file - id:  ../data/genomes/panaroo_gff/Kp10072.gff  -  fig|6666666.759639.peg.4579
+Length: 2148 , Has stop: True
+ID: fig|6666666.759639.peg.2188
+Number of features: 0
+/scaffold=NODE_2_length_711459_cov_23.186224
+Seq('ATGAATCAACATCCTGCATGGAGGAATGCAATGGACGTCAGCCGCAGAAAGTTC...TAA')
+MNQHPAWRNAMDVSRRKFFKICAGGMAGTTAAALGFAPKMALAQARNFKLLRAKEIRNTCTYCSVGCGLLMYSLGDGAKNAKEAIYHIEGDPDHPVSRGALCPKGAGLLDYVHSENRLRYPQYRAPGSDKWQRISWDEAFNRIARLMKADRDANFIEKNEQGVTVNRWLSTGMLCASAASNETGMLTQKFVRSLGMLAVDNQARV*HGPTVASLAPTFGRGAMTNHWVDIKNANVVVVMGGNAAEAHPVGFRWAMEAKNNNDATLIVVDPRFTRTASVADIYAPIRSGTDITFLSGVLLYLIENNKINAEYVKHYTNASLLVRDDFAFEEGLFSGYDAEKRQYDKSSWNYQFDENGYAKRDETLTHPRCVWNLLKQHVSRYTPEVVENICGTPKADFLKVCDVLASTSAADRTTTFLYALGWTQHTVGAQNIRTMAMIQLLLGNMGMAGGGVNALRGHSNIQGLTDLGLLSTSLPGYLTLPSDKQTDLHSYLSANTPKATLPEQVNYWSNYPKFFVSLMKSFYGEAAQKENDWGFEWLPKWDQAYDVIKYFNMMDNGNVTGYICQGFNPVASFPDKNKVVRSLSKLKYMVVIDPLVTETSTFWQNHGESNDVDPSAIQTEVFRLPSTCFAEEDGSIANSGRWLQWHWKGQDAPGEARNDGEILAGIYHRLRELYRTEGGKGAEPLLKMSWRYKQPDHPESEEVAKENNGYALADLYDQNGTLLAKKGQLLNSFALLRDDGSTASSCWIYTGSWTEQGNQMANRDNADPSGLGNTQGWAWAWPLNRRVLYNRASADINGKPWDAKRMLIQWNGSKWVGNDIPDFNTAPPGSNTGPFIMQQEGLGRLFALDKLAEGPFPEHYEPMETPLGTNPLHPKVVSSPVVRLYEEDAIRLGKKDKFPYVGTTYRLTEHFHTWTKHALLNSIAQPEQFVEISEGLAKSKGIANGDWVKVSSKRGFIRAVAVVTRRLRTLNVNGQQVETVGIPLHWGFEGVARKGYIANTLTPNVGDSNSQTPEYKAFLVNIEKA
+Error reading prokka input!
+Traceback (most recent call last):
+  File "/home/rcrawfo/.conda/envs/cg39/lib/python3.9/site-packages/panaroo/prokka.py", line 245, in process_prokka_input
+    gene_sequence_list = Parallel(n_jobs=n_cpu)(
+  File "/home/rcrawfo/.conda/envs/cg39/lib/python3.9/site-packages/joblib/parallel.py", line 1043, in __call__
+    if self.dispatch_one_batch(iterator):
+  File "/home/rcrawfo/.conda/envs/cg39/lib/python3.9/site-packages/joblib/parallel.py", line 861, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "/home/rcrawfo/.conda/envs/cg39/lib/python3.9/site-packages/joblib/parallel.py", line 779, in _dispatch
+    job = self._backend.apply_async(batch, callback=cb)
+  File "/home/rcrawfo/.conda/envs/cg39/lib/python3.9/site-packages/joblib/_parallel_backends.py", line 208, in apply_async
+    result = ImmediateResult(func)
+  File "/home/rcrawfo/.conda/envs/cg39/lib/python3.9/site-packages/joblib/_parallel_backends.py", line 572, in __init__
+    self.results = batch()
+  File "/home/rcrawfo/.conda/envs/cg39/lib/python3.9/site-packages/joblib/parallel.py", line 262, in __call__
+    return [func(*args, **kwargs)
+  File "/home/rcrawfo/.conda/envs/cg39/lib/python3.9/site-packages/joblib/parallel.py", line 262, in <listcomp>
+    return [func(*args, **kwargs)
+  File "/home/rcrawfo/.conda/envs/cg39/lib/python3.9/site-packages/panaroo/prokka.py", line 175, in get_gene_sequences
+    return sequence_dictionary, translate_sequences(sequence_dictionary, table)
+  File "/home/rcrawfo/.conda/envs/cg39/lib/python3.9/site-packages/panaroo/prokka.py", line 192, in translate_sequences
+    raise ValueError("Premature stop codon in a gene!")
+ValueError: Premature stop codon in a gene!
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/rcrawfo/.conda/envs/cg39/bin/panaroo", line 10, in <module>
+    sys.exit(main())
+  File "/home/rcrawfo/.conda/envs/cg39/lib/python3.9/site-packages/panaroo/__main__.py", line 286, in main
+    process_prokka_input(args.input_files, args.output_dir,
+  File "/home/rcrawfo/.conda/envs/cg39/lib/python3.9/site-packages/panaroo/prokka.py", line 257, in process_prokka_input
+    raise RuntimeError("Error reading prokka input!")
+RuntimeError: Error reading prokka input!

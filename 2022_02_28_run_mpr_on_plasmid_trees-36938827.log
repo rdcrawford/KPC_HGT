@@ -1,0 +1,8 @@
+ [1] 451 141 440 167 563 466 752 829 814 212 651  25 128 346 351 358  26  29 203
+[20] 453  94 191  99 123  76 100  27 302  93  22 404 113 105  82 162  26 661  20
+[39]  24  28  18 204  43  94 184  45 204  30 158  50  25  83  86  28  17  40  33
+[58]  11  30 116 103 116 111  17  37
+Error in if (node.number == (Ntip(tree) + 1)) cat("Note: you chose to re-root the tree at it's current root.\n") : 
+  argument is of length zero
+Calls: sapply -> lapply -> FUN -> midpoint.root -> reroot
+Execution halted

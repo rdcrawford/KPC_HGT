@@ -1,0 +1,16 @@
+
+Attaching package: ‘cluster’
+
+The following object is masked from ‘package:maps’:
+
+    votes.repub
+
+clAcqEdgeList: 200 
+2.4 GB
+pdf 
+  2 
+Fraction of cluster genes at transition edge:   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5135  0.6944  0.9000  0.8375  1.0000  1.0000 
+pdf 
+  3 
+[1] 3643 7596

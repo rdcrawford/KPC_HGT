@@ -1,0 +1,10 @@
+
+Attaching package: ‘cluster’
+
+The following object is masked from ‘package:maps’:
+
+    votes.repub
+
+Error in stHgtStatus[rIdxs, clIdx] : subscript out of bounds
+Calls: rbind.data.frame -> GetClData -> rbind.data.frame -> MakeDistData
+Execution halted

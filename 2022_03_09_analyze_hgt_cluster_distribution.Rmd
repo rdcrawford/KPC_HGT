@@ -1,0 +1,68 @@
+---
+title: "Analyze HGT cluster distribution"
+author: "Ryan D. Crawford"
+date: "03/09/2022"
+output: pdf_document
+---
+
+
+# Distribution of HGT events in state by strain
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_strain_hgt_vs_importation_barplot.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_strain_hgt_vs_importation_iso_counts.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_strain_hgt_vs_importation_iso_counts_per_isolate.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_strain_number_of_acquisition_events_by_cluster.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_strain_acquisition_event_count.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_strain_acquisition_events_per_isolate.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_strain_acquisition_events_by_isolates.png)
+
+# Distribution of HGT events in state by state
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_state_hgt_vs_importation_barplot.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_state_hgt_vs_importation_iso_counts.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_state_hgt_vs_importation_iso_counts_per_isolate.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_state_number_of_acquisition_events_by_cluster.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_state_acquisition_event_count.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_state_acquisition_events_per_isolate.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_state_acquisition_events_by_isolates.png)
+
+# Distribution of HGT events in facility by strain
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_strain_by_facility_hgt_vs_importation_barplot.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_strain_by_facility_hgt_vs_importation_iso_counts.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_strain_by_facility_hgt_vs_importation_iso_counts_per_isolate.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_strain_by_facility_number_of_acquisition_events_by_cluster.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_strain_by_facility_acquisition_event_count.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_strain_by_facility_acquisition_events_per_isolate.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_strain_by_facility_acquisition_events_by_isolates.png)
+
+# Distribution of HGT events in facility by state
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_facility_hgt_vs_importation_barplot.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_facility_hgt_vs_importation_iso_counts.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_facility_hgt_vs_importation_iso_counts_per_isolate.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_facility_number_of_acquisition_events_by_cluster.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_facility_acquisition_event_count.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_facility_acquisition_events_per_isolate.png)
+
+![](../figures/2022_03_09_analyze_hgt_cluster_distribution/2022_03_09_state_by_facility_acquisition_events_by_isolates.png)
+

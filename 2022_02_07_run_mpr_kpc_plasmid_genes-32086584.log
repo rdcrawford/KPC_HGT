@@ -1,0 +1,31 @@
+
+Attaching package: ‘cluster’
+
+The following object is masked from ‘package:maps’:
+
+    votes.repub
+
+[1] 1823 8108
+Making the matrix for: 5042 transitions and 7596 genes
+The max corr is: 1 the min is: -0.04496647 
+The max dist is: 1.44566 the min is: 0 
+2.16 GB
+
+Attaching package: ‘cluster’
+
+The following object is masked from ‘package:maps’:
+
+    votes.repub
+
+        meanPpv   meanTpr nCls
+ [1,] 0.9938235 0.0783536   64
+ [2,] 0.9938235 0.0783536   64
+ [3,] 0.9898334 0.1130499   76
+ [4,] 0.9847584 0.1382220   96
+ [5,] 0.9683207 0.1778424  137
+ [6,] 0.9489233 0.2167814  168
+ [7,] 0.8960668 0.2719845  201
+ [8,] 0.8147340 0.3616183  184
+ [9,] 0.6347090 0.3774849  121
+[1] 7
+2.17 GB

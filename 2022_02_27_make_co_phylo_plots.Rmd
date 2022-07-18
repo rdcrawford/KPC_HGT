@@ -1,0 +1,528 @@
+---
+title: "Plasmid co-phylogeny plots"
+author: "Ryan D. Crawford"
+date: "02/27/2022"
+output: pdf_document
+---
+
+
+## Gene cluster 1 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_1_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_1_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_1_strain_co_phylo.png)
+
+## Gene cluster 2 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_2_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_2_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_2_strain_co_phylo.png)
+
+## Gene cluster 3 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_3_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_3_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_3_strain_co_phylo.png)
+
+## Gene cluster 4 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_4_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_4_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_4_strain_co_phylo.png)
+
+## Gene cluster 5 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_5_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_5_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_5_strain_co_phylo.png)
+
+## Gene cluster 6 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_6_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_6_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_6_strain_co_phylo.png)
+
+## Gene cluster 7 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_7_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_7_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_7_strain_co_phylo.png)
+
+## Gene cluster 8 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_8_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_8_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_8_strain_co_phylo.png)
+
+## Gene cluster 9 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_9_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_9_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_9_strain_co_phylo.png)
+
+## Gene cluster 10 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_10_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_10_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_10_strain_co_phylo.png)
+
+## Gene cluster 11 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_11_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_11_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_11_strain_co_phylo.png)
+
+## Gene cluster 12 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_12_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_12_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_12_strain_co_phylo.png)
+
+## Gene cluster 13 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_13_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_13_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_13_strain_co_phylo.png)
+
+## Gene cluster 14 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_14_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_14_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_14_strain_co_phylo.png)
+
+## Gene cluster 15 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_15_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_15_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_15_strain_co_phylo.png)
+
+## Gene cluster 16 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_16_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_16_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_16_strain_co_phylo.png)
+
+## Gene cluster 17 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_17_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_17_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_17_strain_co_phylo.png)
+
+## Gene cluster 18 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_18_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_18_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_18_strain_co_phylo.png)
+
+## Gene cluster 19 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_19_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_19_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_19_strain_co_phylo.png)
+
+## Gene cluster 20 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_20_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_20_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_20_strain_co_phylo.png)
+
+## Gene cluster 21 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_21_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_21_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_21_strain_co_phylo.png)
+
+## Gene cluster 22 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_22_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_22_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_22_strain_co_phylo.png)
+
+## Gene cluster 23 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_23_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_23_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_23_strain_co_phylo.png)
+
+## Gene cluster 24 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_24_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_24_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_24_strain_co_phylo.png)
+
+## Gene cluster 25 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_25_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_25_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_25_strain_co_phylo.png)
+
+## Gene cluster 26 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_26_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_26_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_26_strain_co_phylo.png)
+
+## Gene cluster 27 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_27_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_27_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_27_strain_co_phylo.png)
+
+## Gene cluster 28 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_28_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_28_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_28_strain_co_phylo.png)
+
+## Gene cluster 29 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_29_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_29_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_29_strain_co_phylo.png)
+
+## Gene cluster 30 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_30_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_30_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_30_strain_co_phylo.png)
+
+## Gene cluster 31 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_31_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_31_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_31_strain_co_phylo.png)
+
+## Gene cluster 32 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_32_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_32_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_32_strain_co_phylo.png)
+
+## Gene cluster 33 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_33_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_33_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_33_strain_co_phylo.png)
+
+## Gene cluster 34 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_34_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_34_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_34_strain_co_phylo.png)
+
+## Gene cluster 35 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_35_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_35_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_35_strain_co_phylo.png)
+
+## Gene cluster 36 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_36_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_36_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_36_strain_co_phylo.png)
+
+## Gene cluster 37 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_37_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_37_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_37_strain_co_phylo.png)
+
+## Gene cluster 38 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_38_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_38_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_38_strain_co_phylo.png)
+
+## Gene cluster 39 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_39_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_39_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_39_strain_co_phylo.png)
+
+## Gene cluster 40 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_40_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_40_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_40_strain_co_phylo.png)
+
+## Gene cluster 41 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_41_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_41_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_41_strain_co_phylo.png)
+
+## Gene cluster 42 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_42_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_42_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_42_strain_co_phylo.png)
+
+## Gene cluster 43 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_43_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_43_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_43_strain_co_phylo.png)
+
+## Gene cluster 44 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_44_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_44_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_44_strain_co_phylo.png)
+
+## Gene cluster 45 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_45_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_45_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_45_strain_co_phylo.png)
+
+## Gene cluster 46 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_46_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_46_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_46_strain_co_phylo.png)
+
+## Gene cluster 47 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_47_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_47_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_47_strain_co_phylo.png)
+
+## Gene cluster 48 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_48_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_48_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_48_strain_co_phylo.png)
+
+## Gene cluster 49 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_49_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_49_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_49_strain_co_phylo.png)
+
+## Gene cluster 50 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_50_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_50_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_50_strain_co_phylo.png)
+
+## Gene cluster 51 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_51_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_51_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_51_strain_co_phylo.png)
+
+## Gene cluster 52 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_52_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_52_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_52_strain_co_phylo.png)
+
+## Gene cluster 53 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_53_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_53_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_53_strain_co_phylo.png)
+
+## Gene cluster 54 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_54_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_54_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_54_strain_co_phylo.png)
+
+## Gene cluster 55 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_55_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_55_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_55_strain_co_phylo.png)
+
+## Gene cluster 56 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_56_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_56_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_56_strain_co_phylo.png)
+
+## Gene cluster 57 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_57_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_57_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_57_strain_co_phylo.png)
+
+## Gene cluster 58 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_58_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_58_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_58_strain_co_phylo.png)
+
+## Gene cluster 59 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_59_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_59_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_59_strain_co_phylo.png)
+
+## Gene cluster 60 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_60_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_60_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_60_strain_co_phylo.png)
+
+## Gene cluster 61 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_61_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_61_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_61_strain_co_phylo.png)
+
+## Gene cluster 62 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_62_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_62_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_62_strain_co_phylo.png)
+
+## Gene cluster 63 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_63_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_63_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_63_strain_co_phylo.png)
+
+## Gene cluster 64 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_64_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_64_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_64_strain_co_phylo.png)
+
+## Gene cluster 65 concatenated gene tree
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_65_pl_tree_plot.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_65_source_co_phylo.png)
+
+![](../figures/2022_02_27_make_co_phylo_plots/2022_02_27_cl_65_strain_co_phylo.png)
+

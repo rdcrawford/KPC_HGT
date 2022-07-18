@@ -1,0 +1,51 @@
+  -- Parsed the data for 10059319 coding genes
+
+
+Creating concatenated gene alignment:
+  -- 1823 genomes were input
+  -- Writing results to: ../analysis/2022_02_04_eip_cognac_analysis/
+  -- Running on: 8 cores
+
+Step 1: parsing the data on the input genomes
+  -- Finished in 0.04 minutes
+
+Step 2: finding orthologs with cd-hit
+  -- The genes were classified into 140142 clusters of orthologous genes
+  -- Continuing with 72145 genes present in at least 2 occurrences
+  -- Finished in 17.55 minutes
+
+Step 3: filtering for single copy genes
+  -- 4119 multi-copy genes were identified
+  -- After filtering there are 68026 remaining genes
+  -- Finished in 0.42 minutes
+
+Step 4: selecting genes to include in the alignment
+  -- Identified 1526 core genes
+  -- Removing 2 perfectly conserved genes from the analysis
+  -- 1524 genes met the criteria to be included in the alignment
+  -- Finished in 0.07 minutes
+
+Step 5: aligning and concatenating orthologous genes
+  -- The total alignment length is 543404
+  -- Finished in 53.49 minutes
+
+Step 6: creating output files
+  -- Finished in 20.27 minutes
+
+Run complete
+  -- Amino acid alignment written to: ../analysis/2022_02_04_eip_cognac_analysis/concatenated_gene_aa_alignment.fasta 
+  -- Nucleotide alignment written to: ../analysis/2022_02_04_eip_cognac_analysis/concatenated_gene_nt_alignment.fasta 
+  -- Neighbor joining tree written to: ../analysis/2022_02_04_eip_cognac_analysis/cognac_nj.tre 
+  -- Finished in 91.81 minutes
+
+
+Warning messages:
+1: UNRELIABLE VALUE: One of the ‘future.apply’ iterations (‘future_sapply-1’) unexpectedly generated random numbers without declaring so. There is a risk that those random numbers are not statistically sound and the overall results might be invalid. To fix this, specify 'future.seed=TRUE'. This ensures that proper, parallel-safe random numbers are produced via the L'Ecuyer-CMRG method. To disable this check, use 'future.seed = NULL', or set option 'future.rng.onMisuse' to "ignore". 
+2: UNRELIABLE VALUE: One of the ‘future.apply’ iterations (‘future_sapply-2’) unexpectedly generated random numbers without declaring so. There is a risk that those random numbers are not statistically sound and the overall results might be invalid. To fix this, specify 'future.seed=TRUE'. This ensures that proper, parallel-safe random numbers are produced via the L'Ecuyer-CMRG method. To disable this check, use 'future.seed = NULL', or set option 'future.rng.onMisuse' to "ignore". 
+3: UNRELIABLE VALUE: One of the ‘future.apply’ iterations (‘future_sapply-3’) unexpectedly generated random numbers without declaring so. There is a risk that those random numbers are not statistically sound and the overall results might be invalid. To fix this, specify 'future.seed=TRUE'. This ensures that proper, parallel-safe random numbers are produced via the L'Ecuyer-CMRG method. To disable this check, use 'future.seed = NULL', or set option 'future.rng.onMisuse' to "ignore". 
+4: UNRELIABLE VALUE: One of the ‘future.apply’ iterations (‘future_sapply-4’) unexpectedly generated random numbers without declaring so. There is a risk that those random numbers are not statistically sound and the overall results might be invalid. To fix this, specify 'future.seed=TRUE'. This ensures that proper, parallel-safe random numbers are produced via the L'Ecuyer-CMRG method. To disable this check, use 'future.seed = NULL', or set option 'future.rng.onMisuse' to "ignore". 
+5: UNRELIABLE VALUE: One of the ‘future.apply’ iterations (‘future_sapply-5’) unexpectedly generated random numbers without declaring so. There is a risk that those random numbers are not statistically sound and the overall results might be invalid. To fix this, specify 'future.seed=TRUE'. This ensures that proper, parallel-safe random numbers are produced via the L'Ecuyer-CMRG method. To disable this check, use 'future.seed = NULL', or set option 'future.rng.onMisuse' to "ignore". 
+6: UNRELIABLE VALUE: One of the ‘future.apply’ iterations (‘future_sapply-6’) unexpectedly generated random numbers without declaring so. There is a risk that those random numbers are not statistically sound and the overall results might be invalid. To fix this, specify 'future.seed=TRUE'. This ensures that proper, parallel-safe random numbers are produced via the L'Ecuyer-CMRG method. To disable this check, use 'future.seed = NULL', or set option 'future.rng.onMisuse' to "ignore". 
+7: UNRELIABLE VALUE: One of the ‘future.apply’ iterations (‘future_sapply-7’) unexpectedly generated random numbers without declaring so. There is a risk that those random numbers are not statistically sound and the overall results might be invalid. To fix this, specify 'future.seed=TRUE'. This ensures that proper, parallel-safe random numbers are produced via the L'Ecuyer-CMRG method. To disable this check, use 'future.seed = NULL', or set option 'future.rng.onMisuse' to "ignore". 
+8: UNRELIABLE VALUE: One of the ‘future.apply’ iterations (‘future_sapply-8’) unexpectedly generated random numbers without declaring so. There is a risk that those random numbers are not statistically sound and the overall results might be invalid. To fix this, specify 'future.seed=TRUE'. This ensures that proper, parallel-safe random numbers are produced via the L'Ecuyer-CMRG method. To disable this check, use 'future.seed = NULL', or set option 'future.rng.onMisuse' to "ignore". 
+1.62 GB

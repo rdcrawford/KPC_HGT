@@ -1,0 +1,1204 @@
+---
+title: "Find what the cluster genes are"
+author: "Ryan D. Crawford"
+date: "05/09/2022"
+---
+
+
+1: 2/41
+  -- 9536 IncF plasmid conjugative transfer pilus assembly protein TraC
+  -- 23966 IncF plasmid conjugative transfer protein TraN
+  -- 137214 IncF plasmid conjugative transfer pilus assembly protein TraU
+  -- 189977 IncF plasmid conjugative transfer pilus assembly protein TraF
+  -- 193466 YihA
+  -- 230442 IncF plasmid conjugative transfer protein TrbC
+  -- 231046 hypothetical protein
+  -- 235649 IncF plasmid conjugative transfer pilus assembly protein TraW
+  -- 251137 Endonuclease
+  -- 259360 hypothetical protein
+  -- 272072 putative transglycosylase
+  -- 290437 IncF plasmid conjugative transfer protein TrbI
+  -- 300276 hypothetical protein
+  -- 301064 hypothetical protein
+  -- 306165 hypothetical protein
+  -- 322037 IncF plasmid conjugative transfer pilus assembly protein TraL
+  -- 328202 hypothetical protein
+  -- 374061 hypothetical protein
+  -- 129800 Replication initiation protein
+  -- 251109 IncF plasmid conjugative transfer pilus assembly protein TraV
+  -- 220224 hypothetical protein
+  -- 322452 hypothetical protein
+  -- 333665 hypothetical protein
+  -- 335629 hypothetical protein
+  -- 347098 hypothetical protein
+  -- 356164 IncF plasmid conjugative transfer protein TrbE
+  -- 372844 hypothetical protein
+  -- 14845 ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex%2C VirB4
+  -- 40574 hypothetical protein
+  -- 48305 hypothetical protein
+  -- 78698 hypothetical protein
+  -- 90393 hypothetical protein
+  -- 101396 Shufflon-specific DNA recombinase
+  -- 106794 Inner membrane protein of type IV secretion of T-DNA complex%2C TonB-like%2C VirB10
+  -- 111621 hypothetical protein
+  -- 122416 ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex%2C VirB11
+  -- 139479 hypothetical protein
+  -- 184319 hypothetical protein
+  -- 196120 hypothetical protein
+  -- 206946 Inner membrane protein forms channel for type IV secretion of T-DNA complex (VirB8)
+  -- 227217 hypothetical protein
+  -- 228578 hypothetical protein
+  -- 233547 hypothetical protein
+  -- 233548 FIG00641989: hypothetical protein
+  -- 254975 hypothetical protein
+  -- 261580 hypothetical protein
+  -- 266905 IncI1 plasmid pilus assembly protein PilP
+  -- 276385 IncI1 plasmid conjugative transfer putative membrane protein PilT
+  -- 288024 hypothetical protein
+  -- 289798 hypothetical protein
+  -- 300898 hypothetical protein
+  -- 321965 hypothetical protein
+  -- 329451 hypothetical protein
+  -- 334284 Major pilus subunit of type IV secretion complex (VirB2)
+  -- 335308 hypothetical protein
+  -- 345763 FIG00644780: hypothetical protein
+
+
+2: 3
+  -- 15309 DNA topoisomerase III (EC 5.99.1.2)
+  -- 29871 Coupling protein VirD4%2C ATPase required for T-DNA transfer
+  -- 85989 Cell division protein FtsH (EC 3.4.24.-)
+  -- 93306 Inner membrane protein of type IV secretion of T-DNA complex%2C TonB-like%2C VirB10
+  -- 115350 hypothetical protein
+  -- 132082 hypothetical protein
+  -- 154097 Forms the bulk of type IV secretion complex that spans outer membrane and periplasm (VirB9)
+  -- 208260 Inner membrane protein forms channel for type IV secretion of T-DNA complex%2C VirB8
+  -- 212763 hypothetical protein
+  -- 225699 hypothetical protein
+  -- 226402 Resolvase
+  -- 267453 putative nuclease
+  -- 272764 hypothetical protein
+  -- 287486 hypothetical protein
+  -- 294835 DNA distortion protein 3
+  -- 302428 hypothetical protein
+  -- 305887 hypothetical protein
+  -- 322468 hypothetical protein
+  -- 326645 hypothetical protein
+  -- 327383 hypothetical protein
+  -- 334426 hypothetical protein
+  -- 351229 hypothetical protein
+  -- 365972 hypothetical protein
+  -- 376304 IncN plasmid KikA protein
+  -- 180002 zinc metalloproteinase Mpr protein
+  -- 344461 hypothetical protein
+  -- 390265 hypothetical protein
+  -- 101911 IncQ plasmid conjugative transfer DNA nicking endonuclease TraR (pTi VirD2 homolog)
+  -- 124811 ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex%2C VirB11
+  -- 332131 Major pilus subunit of type IV secretion complex%2C VirB2
+  -- 352248 hypothetical protein
+  -- 256541 hypothetical protein
+  -- 260930 Chaperone protein DnaJ
+  -- 318816 hypothetical protein
+  -- 339857 hypothetical protein
+  -- 340652 hypothetical protein
+  -- 350156 hypothetical protein
+  -- 352253 hypothetical protein
+  -- 375650 hypothetical protein
+  -- 336796 hypothetical protein
+  -- 337990 hypothetical protein
+  -- 379450 hypothetical protein
+  -- 380722 hypothetical protein
+  -- 7924 Inner membrane protein forms channel for type IV secretion of T-DNA complex%2C VirB3 / ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex%2C VirB4
+  -- 195689 hypothetical protein
+  -- 236078 hypothetical protein
+
+
+3: 6
+  -- 9537 IncF plasmid conjugative transfer pilus assembly protein TraC
+  -- 23971 IncF plasmid conjugative transfer protein TraN
+  -- 58943 IncF plasmid conjugative transfer pilus assembly protein TraB
+  -- 66363 IncF plasmid conjugative transfer pilus assembly protein TraH
+  -- 137215 IncF plasmid conjugative transfer pilus assembly protein TraU
+  -- 189987 IncF plasmid conjugative transfer pilus assembly protein TraF
+  -- 191379 IncF plasmid conjugative transfer pilus assembly protein TraK
+  -- 230444 IncF plasmid conjugative transfer protein TrbC
+  -- 235650 IncF plasmid conjugative transfer pilus assembly protein TraW
+  -- 237680 IncF plasmid conjugative transfer pilus assembly protein TraE
+  -- 249436 IncF plasmid conjugative transfer protein TrbB
+  -- 290438 IncF plasmid conjugative transfer protein TrbI
+  -- 291838 hypothetical protein
+  -- 301065 hypothetical protein
+  -- 309370 IncF plasmid conjugative transfer pilin protein TraA
+  -- 322041 IncF plasmid conjugative transfer pilus assembly protein TraL
+  -- 345017 IncF plasmid conjugative transfer protein TraQ
+  -- 15305 hypothetical protein
+  -- 167231 DNA replication
+  -- 232937 hypothetical protein
+  -- 316787 ORF2
+  -- 393287 hypothetical protein
+  -- 239126 IncF plasmid conjugative transfer fertility inhibition protein FinO
+  -- 15256 IncF plasmid conjugative transfer protein TraD
+  -- 194461 IncF plasmid conjugative transfer surface exclusion protein TraT
+  -- 515 IncF plasmid conjugative transfer DNA-nicking and unwinding protein TraI
+  -- 6509 IncF plasmid conjugative transfer protein TraG
+  -- 208921 IncF plasmid conjugative transfer pilin acetylase TraX
+
+
+4: 7
+  -- 42629 hypothetical protein
+  -- 345248 hypothetical protein
+  -- 308119 hypothetical protein
+  -- 331366 DNA polymerase III theta subunit (EC 2.7.7.7)
+  -- 300278 hypothetical protein
+  -- 296745 hypothetical protein
+  -- 337418 hypothetical protein
+  -- 349848 hypothetical protein
+  -- 376308 stable plasmid inheritance protein
+  -- 376332 hypothetical protein
+  -- 379809 hypothetical protein
+  -- 386662 hypothetical protein
+  -- 141462 UPF0380 proteins YafZ and homologs
+  -- 179811 PsiA protein
+  -- 270172 putative transglycosylase
+  -- 291381 Plasmid SOS inhibition protein PsiB
+  -- 322142 FIG00641039: hypothetical protein
+  -- 90996 Transposase
+
+
+5: 12
+  -- 262228 hypothetical protein
+  -- 16496 Conjugal transfer protein
+  -- 37199 IncI1 plasmid conjugative transfer lipoprotein PilN
+  -- 47072 hypothetical protein
+  -- 81058 hypothetical protein
+  -- 95613 hypothetical protein
+  -- 101391 Shufflon-specific DNA recombinase
+  -- 114248 IncI1 plasmid conjugative transfer inner membrane protein PilR
+  -- 177905 hypothetical protein
+  -- 186976 hypothetical protein
+  -- 221260 hypothetical protein
+  -- 228447 hypothetical protein
+  -- 234332 Single-stranded DNA-binding protein
+  -- 247074 hypothetical protein
+  -- 247138 hypothetical protein
+  -- 254017 IncI1 plasmid conjugative transfer putative membrane protein PilT
+  -- 254057 hypothetical protein
+  -- 263019 hypothetical protein
+  -- 276662 hypothetical protein
+  -- 283593 hypothetical protein
+  -- 289723 hypothetical protein
+  -- 290973 hypothetical protein
+  -- 315646 hypothetical protein
+  -- 342680 hypothetical protein
+  -- 353881 UPF0401 protein YkfF
+  -- 369478 hypothetical protein
+  -- 378364 hypothetical protein
+  -- 386370 Relaxosome component
+  -- 382021 hypothetical protein
+  -- 119402 Conjugal transfer protein
+  -- 119947 hypothetical protein
+  -- 347819 hypothetical protein
+  -- 372950 hypothetical protein
+  -- 343557 hypothetical protein
+
+
+6: 13
+  -- 266611 IncF plasmid conjugative transfer pilus assembly protein TraV
+  -- 22359 hypothetical protein
+  -- 32268 Type I restriction-modification system%2C DNA-methyltransferase subunit M (EC 2.1.1.72)
+  -- 42252 Mobile element protein
+  -- 49068 hypothetical plasmid protein
+  -- 59912 S-methylmethionine permease
+  -- 81080 Type I restriction-modification system%2C specificity subunit S
+  -- 100936 Chromosome (plasmid) partitioning protein ParA
+  -- 122446 RepFIB replication protein A
+  -- 136789 Uncharacterized protein Ctu_08830
+  -- 137225 IncF plasmid conjugative transfer pilus assembly protein TraU
+  -- 141392 Chromosome (plasmid) partitioning protein ParB
+  -- 141465 UPF0380 proteins YafZ and homologs
+  -- 151163 Homocysteine S-methyltransferase (EC 2.1.1.10)
+  -- 153479 hypothetical protein
+  -- 155215 hypothetical protein
+  -- 179666 hypothetical protein
+  -- 183336 hypothetical protein
+  -- 184228 Resolvase
+  -- 190329 Aminoglycoside 3''-nucleotidyltransferase (EC 2.7.7.-) %3D> ANT(3'')-Ia (AadA family)
+  -- 199976 Replication initiation protein RepE
+  -- 203144 IncF plasmid conjugative transfer pilin acetylase TraX
+  -- 208530 IncF plasmid conjugative transfer pilus assembly protein TraK
+  -- 211414 Plasmid SOS inhibition protein PsiA
+  -- 221224 Adenine-specific methyltransferase (EC 2.1.1.72)
+  -- 227185 hypothetical protein
+  -- 246370 hypothetical protein
+  -- 254047 Mobile element protein
+  -- 265241 Mobile element protein
+  -- 268420 X polypeptide
+  -- 289755 Plasmid SOS inhibition protein PsiB
+  -- 290946 hypothetical protein
+  -- 294639 Adenine-specific methyltransferase (EC 2.1.1.72)
+  -- 306755 Death on curing protein%2C Doc toxin
+  -- 313134 hypothetical protein
+  -- 315378 Mobile element protein
+  -- 328961 CcdB toxin protein
+  -- 332706 Programmed cell death antitoxin PemI
+  -- 335236 hypothetical protein
+  -- 347116 hypothetical protein
+  -- 348507 hypothetical protein
+  -- 353879 UPF0401 protein YkfF
+  -- 356044 IncF plasmid conjugative transfer regulator TraY
+  -- 358285 RelB/StbD replicon stabilization protein (antitoxin to RelE/StbE)
+  -- 358404 Phage protein
+  -- 358857 CcdA protein (antitoxin to CcdB)
+  -- 368416 hypothetical protein
+  -- 383060 FIG00643981: hypothetical protein
+  -- 384149 hypothetical protein
+  -- 389460 hypothetical protein
+  -- 390886 hypothetical protein
+  -- 393481 hypothetical protein
+  -- 308642 Programmed cell death toxin PemK
+  -- 353966 Ferric cations import ATP-binding protein fbpC (EC 3.6.3.30)
+  -- 293829 Putative antirestriction protein
+  -- 234329 Single-stranded DNA-binding protein
+  -- 364650 hypothetical protein
+  -- 166861 Putative transposase InsK for insertion sequence element IS150
+  -- 378348 hypothetical protein
+  -- 394542 hypothetical protein
+
+
+7: 16
+  -- 322038 IncF plasmid conjugative transfer pilus assembly protein TraL
+  -- 189978 IncF plasmid conjugative transfer pilus assembly protein TraF
+  -- 237674 IncF plasmid conjugative transfer pilus assembly protein TraE
+  -- 291839 hypothetical protein
+  -- 322453 hypothetical protein
+  -- 348304 hypothetical protein
+  -- 345016 IncF plasmid conjugative transfer protein TraQ
+  -- 347106 hypothetical protein
+  -- 252960 hypothetical protein
+  -- 239128 IncF plasmid conjugative transfer fertility inhibition protein FinO
+
+
+8: 18
+  -- 22131 hypothetical protein
+  -- 47480 Threonine dehydratase biosynthetic (EC 4.3.1.19)
+  -- 64396 PTS system%2C galactitol-specific IIC component
+  -- 96339 Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)%2C FabV %3D> refractory to triclosan
+  -- 132297 Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121)%2C dihydroxyacetone binding subunit DhaK
+  -- 166618 Dihydroxy-acid dehydratase (EC 4.2.1.9)
+  -- 227083 Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases
+  -- 232024 Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121)%2C ADP-binding subunit DhaL
+  -- 266551 hypothetical protein
+  -- 338429 PTS system%2C galactitol-specific IIB component (EC 2.7.1.200)
+  -- 342524 hypothetical protein
+  -- 52684 alpha-L-arabinofuranosidase (EC 3.2.1.55)
+  -- 54112 Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)
+  -- 134647 Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121)%2C dihydroxyacetone binding subunit DhaK
+  -- 142301 Transcriptional regulator IlvY%2C LysR family
+  -- 235195 Putative dihydroxyacetone kinase (EC 2.7.1.29)%2C ADP-binding subunit
+  -- 261741 Possible GPH family transporter (TC 2.A.2) for arabinosides
+  -- 336926 Peptidyl-prolyl cis-trans isomerase PpiC (EC 5.2.1.8)
+
+
+9: 19
+  -- 73131 Error-prone%2C lesion bypass DNA polymerase V (UmuC)
+  -- 132959 Transposase STM474_p1058
+  -- 189032 hypothetical protein
+  -- 232051 putative resolvase
+  -- 235574 hypothetical protein
+  -- 238977 hypothetical protein
+  -- 244148 Antirestriction protein ArdA
+  -- 281623 Putative antirestriction protein
+  -- 282655 Error-prone repair protein UmuD
+  -- 297281 hypothetical protein
+  -- 337049 hypothetical protein
+  -- 342156 hypothetical protein
+  -- 344978 hypothetical protein
+  -- 349160 hypothetical protein
+  -- 355458 hypothetical protein
+  -- 357672 hypothetical protein
+  -- 367967 hypothetical protein
+  -- 183381 Adenine-specific methyltransferase (EC 2.1.1.72)
+
+
+10: 20
+  -- 244150 Antirestriction protein ArdA
+  -- 367966 hypothetical protein
+  -- 352027 hypothetical protein
+  -- 141463 UPF0380 proteins YafZ and homologs
+  -- 183385 Adenine-specific methyltransferase (EC 2.1.1.72)
+  -- 196736 hypothetical protein
+  -- 281626 Putative antirestriction protein
+  -- 290132 hypothetical protein
+  -- 357681 hypothetical protein
+  -- 49063 hypothetical plasmid protein
+  -- 142203 COG0443: Molecular chaperone
+
+
+11: 22/23/24/57
+  -- 4079 hypothetical protein
+  -- 48845 hypothetical protein
+  -- 102960 Inner membrane protein of type IV secretion of T-DNA complex%2C TonB-like%2C VirB10
+  -- 123896 hypothetical protein
+  -- 136635 hypothetical protein
+  -- 152156 hypothetical protein
+  -- 205809 lytic transglycosylase domain-containing protein
+  -- 212816 Minor pilin of type IV secretion complex (VirB5)
+  -- 216802 Inner membrane protein forms channel for type IV secretion of T-DNA complex%2C VirB8
+  -- 239047 DNA-invertase
+  -- 285437 Error-prone repair protein UmuD
+  -- 293332 KlcA protein
+  -- 296003 hypothetical protein
+  -- 298968 antirestriction protein ArdR
+  -- 312687 hypothetical protein
+  -- 325675 hypothetical protein
+  -- 330216 FIG00644782: hypothetical protein
+  -- 332792 hypothetical protein
+  -- 335959 hypothetical protein
+  -- 355535 hypothetical protein
+  -- 392822 hypothetical protein
+  -- 392903 hypothetical protein
+  -- 10182 hypothetical protein
+  -- 210300 Replication initiation protein RepE
+  -- 212116 hypothetical protein
+  -- 295083 hypothetical protein
+  -- 309753 hypothetical protein
+  -- 315230 IncN plasmid KikA protein
+  -- 317189 hypothetical protein
+  -- 324669 FIG036757: Plasmid-related protein
+  -- 337066 hypothetical protein
+  -- 371042 hypothetical protein
+  -- 85177 Error-prone%2C lesion bypass DNA polymerase V (UmuC)
+  -- 267940 Antirestriction protein ArdA
+  -- 351344 hypothetical protein
+  -- 320763 hypothetical protein
+  -- 85178 Error-prone%2C lesion bypass DNA polymerase V (UmuC)
+  -- 212117 hypothetical protein
+  -- 304774 hypothetical protein
+  -- 309754 hypothetical protein
+  -- 371043 hypothetical protein
+  -- 353618 hypothetical protein
+  -- 315275 KorB
+  -- 205810 traL protein
+  -- 297829 hypothetical protein
+  -- 307690 hypothetical protein
+  -- 315231 IncN plasmid KikA protein
+  -- 327376 hypothetical protein
+  -- 337067 hypothetical protein
+  -- 267941 Antirestriction protein ArdA
+  -- 351345 hypothetical protein
+  -- 317190 hypothetical protein
+  -- 377322 hypothetical protein
+  -- 308570 hypothetical protein
+  -- 337763 hypothetical protein
+  -- 371944 Plasmid conjugative transfer endonuclease
+  -- 386263 hypothetical protein
+  -- 54248 Protein translocase subunit SecA
+  -- 158697 GTP pyrophosphokinase (EC 2.7.6.5)%2C (p)ppGpp synthetase II / Guanosine-3'%2C5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)
+  -- 366148 hypothetical protein
+  -- 392823 hypothetical protein
+  -- 393053 hypothetical protein
+  -- 304913 restriction endonuclease
+  -- 386910 putative membrane protein
+  -- 123897 hypothetical protein
+  -- 212817 hypothetical protein
+  -- 216806 Inner membrane protein forms channel for type IV secretion of T-DNA complex%2C VirB8
+  -- 355536 hypothetical protein
+  -- 345903 IS1 protein InsB
+  -- 242839 Transposase
+  -- 4534 Mobile element protein
+  -- 282042 Aminoglycoside N(3)-acetyltransferase (EC 2.3.1.81) %3D> AAC(3)-I
+  -- 317014 small multidrug resistance family (SMR) protein
+  -- 345661 hypothetical protein
+
+
+12: 25
+  -- 290440 IncF plasmid conjugative transfer protein TrbI
+  -- 25756 hypothetical protein
+  -- 83340 protein of unknown function DUF262
+  -- 347412 RelB/StbD replicon stabilization protein (antitoxin to RelE/StbE)
+  -- 382958 hypothetical protein
+  -- 208597 Transposase
+  -- 352940 hypothetical protein
+  -- 37636 Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)
+  -- 315212 hypothetical protein
+  -- 308370 hypothetical protein
+  -- 335328 IS1 protein InsB
+  -- 131630 DNA replication protein
+  -- 340222 hypothetical protein
+  -- 23976 IncF plasmid conjugative transfer protein TraN
+  -- 49078 hypothetical plasmid protein
+  -- 100935 Chromosome (plasmid) partitioning protein ParA
+  -- 141391 Chromosome (plasmid) partitioning protein ParB
+  -- 187222 Resolvase
+  -- 191383 IncF plasmid conjugative transfer pilus assembly protein TraK
+  -- 241428 IncF plasmid conjugative transfer pilus assembly protein TraV
+  -- 253900 Single-stranded DNA-binding protein
+  -- 297302 hypothetical protein
+  -- 352028 hypothetical protein
+  -- 353089 probable fimbrial protein staA
+  -- 374904 hypothetical protein
+  -- 319453 hypothetical protein
+
+
+13: 26/27
+  -- 462 hypothetical protein
+  -- 6116 Conjugative transfer protein TraI%2C relaxase
+  -- 7416 hypothetical protein
+  -- 12798 IncF plasmid conjugative transfer pilus assembly protein TraC
+  -- 18638 DNA topoisomerase III (EC 5.99.1.2)
+  -- 28829 IncF plasmid conjugative transfer protein TraD
+  -- 214741 hypothetical protein
+  -- 222281 hypothetical protein
+  -- 226868 hypothetical protein
+  -- 237853 hypothetical protein
+  -- 237869 hypothetical protein
+  -- 273967 hypothetical protein
+  -- 307138 hypothetical protein
+  -- 355351 hypothetical protein
+  -- 208972 hypothetical protein
+  -- 303543 hypothetical protein
+  -- 351278 hypothetical protein
+  -- 340318 hypothetical protein
+  -- 2456 IncF plasmid conjugative transfer protein TraG
+  -- 12688 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase and related enzymes
+  -- 31400 hypothetical protein
+  -- 41484 hypothetical protein
+  -- 49852 Putative DNA helicase
+  -- 57629 hypothetical protein
+  -- 59562 hypothetical protein
+  -- 77775 IncF plasmid conjugative transfer pilus assembly protein TraB
+  -- 83457 hypothetical protein
+  -- 85183 hypothetical protein
+  -- 95111 hypothetical protein
+  -- 98845 Chromosome (plasmid) partitioning protein ParB
+  -- 117321 IncF plasmid conjugative transfer pilus assembly protein TraU
+  -- 125447 hypothetical protein
+  -- 127440 Phage recombination protein Bet
+  -- 132797 Integrase/recombinase
+  -- 132858 hypothetical protein
+  -- 138377 hypothetical protein
+  -- 143685 hypothetical protein
+  -- 146032 Periplasmic serine proteases (ClpP class)
+  -- 151307 hypothetical protein
+  -- 157208 hypothetical protein
+  -- 157919 hypothetical protein
+  -- 170217 hypothetical protein
+  -- 172303 hypothetical protein
+  -- 172308 hypothetical protein
+  -- 173865 hypothetical protein
+  -- 191445 hypothetical protein
+  -- 223257 hypothetical protein
+  -- 226606 hypothetical protein
+  -- 227183 hypothetical protein
+  -- 229526 hypothetical protein
+  -- 230836 hypothetical protein
+  -- 233151 hypothetical protein
+  -- 234815 hypothetical protein
+  -- 235588 hypothetical protein
+  -- 236209 hypothetical protein
+  -- 238442 hypothetical protein
+  -- 239889 hypothetical protein
+  -- 240770 hypothetical protein
+  -- 246619 hypothetical protein
+  -- 252988 hypothetical protein
+  -- 254673 hypothetical protein
+  -- 255604 hypothetical protein
+  -- 257499 hypothetical protein
+  -- 260235 hypothetical protein
+  -- 260242 hypothetical protein
+  -- 262000 hypothetical protein
+  -- 262668 Single-stranded DNA-binding protein
+  -- 264894 hypothetical protein
+  -- 264898 hypothetical protein
+  -- 265502 hypothetical protein
+  -- 266297 hypothetical protein
+  -- 268827 hypothetical protein
+  -- 270465 hypothetical protein
+  -- 270509 hypothetical protein
+  -- 272947 hypothetical protein
+  -- 278006 hypothetical protein
+  -- 278800 hypothetical protein
+  -- 279882 hypothetical protein
+  -- 284925 hypothetical protein
+  -- 287018 hypothetical protein
+  -- 290405 hypothetical protein
+  -- 292271 hypothetical protein
+  -- 295037 hypothetical protein
+  -- 304702 hypothetical protein
+  -- 304704 hypothetical protein
+  -- 305713 hypothetical protein
+  -- 308854 hypothetical protein
+  -- 310593 hypothetical protein
+  -- 312691 hypothetical protein
+  -- 314123 hypothetical protein
+  -- 314384 hypothetical protein
+  -- 315285 Toxin HigB
+  -- 317183 hypothetical protein
+  -- 324618 hypothetical protein
+  -- 324997 hypothetical protein
+  -- 325651 hypothetical protein
+  -- 326755 hypothetical protein
+  -- 327390 hypothetical protein
+  -- 329824 hypothetical protein
+  -- 329842 Antitoxin HigA
+  -- 334811 hypothetical protein
+  -- 337048 hypothetical protein
+  -- 337071 hypothetical protein
+  -- 338053 hypothetical protein
+  -- 340257 hypothetical protein
+  -- 340260 DNA-binding protein HU-beta
+  -- 340263 hypothetical protein
+  -- 340265 hypothetical protein
+  -- 354453 hypothetical protein
+  -- 356659 hypothetical protein
+  -- 358881 hypothetical protein
+  -- 364051 hypothetical protein
+  -- 367032 hypothetical protein
+  -- 367926 hypothetical protein
+  -- 368116 hypothetical protein
+  -- 369947 hypothetical protein
+  -- 381613 hypothetical protein
+  -- 391451 hypothetical protein
+  -- 110609 hypothetical protein
+  -- 265142 hypothetical protein
+  -- 269174 hypothetical protein
+  -- 318254 hypothetical protein
+
+
+14: 29
+  -- 9545 IncF plasmid conjugative transfer pilus assembly protein TraC
+  -- 23978 IncF plasmid conjugative transfer protein TraN
+  -- 137222 IncF plasmid conjugative transfer pilus assembly protein TraU
+  -- 290431 IncF plasmid conjugative transfer protein TrbI
+  -- 331368 DNA polymerase III theta subunit (EC 2.7.7.7)
+  -- 66364 IncF plasmid conjugative transfer pilus assembly protein TraH
+  -- 235648 IncF plasmid conjugative transfer pilus assembly protein TraW
+  -- 15258 IncF plasmid conjugative transfer protein TraD
+  -- 251145 Endonuclease
+  -- 208928 IncF plasmid conjugative transfer pilin acetylase TraX
+  -- 249449 IncF plasmid conjugative transfer protein TrbB
+  -- 309371 IncF plasmid conjugative transfer pilin protein TraA
+  -- 517 IncF plasmid conjugative transfer DNA-nicking and unwinding protein TraI
+  -- 167232 DNA replication protein
+
+
+15: 32
+  -- 137204 hypothetical protein
+  -- 377988 hypothetical protein
+  -- 284610 IS1 protein InsB
+  -- 93734 H repeat-associated protein%2C YhhI family
+  -- 232054 putative resolvase
+  -- 312071 hypothetical protein
+  -- 354796 hypothetical protein
+  -- 375741 Transposase
+  -- 384686 hypothetical protein
+  -- 253315 hypothetical protein
+  -- 213744 hypothetical protein
+  -- 334461 IS1 protein InsA
+  -- 320224 hypothetical protein
+  -- 238980 hypothetical protein
+
+
+16: 36
+  -- 73143 Error-prone%2C lesion bypass DNA polymerase V (UmuC)
+  -- 122433 hypothetical protein
+  -- 164342 hypothetical protein
+  -- 185317 Resolvase
+  -- 235569 ParA-like protein
+  -- 296578 hypothetical protein
+  -- 328957 CcdB toxin protein
+  -- 358851 CcdA protein (antitoxin to CcdB)
+  -- 376325 hypothetical protein
+  -- 288223 Error-prone repair protein UmuD
+
+
+17: 37
+  -- 117230 putative ATP/GTP-binding protein protein
+  -- 146806 Similar to citrate lyase beta subunit
+  -- 194821 orf%3B Unknown function
+  -- 248567 Tellurium resistance protein TerD
+  -- 284046 Tellurite resistance protein TerB
+  -- 319536 hypothetical protein
+  -- 110069 hypothetical protein
+  -- 231817 Putative tellurium resistance protein
+  -- 232512 hypothetical protein
+  -- 281983 hypothetical protein
+
+
+18: 40
+  -- 508 IncF plasmid conjugative transfer DNA-nicking and unwinding protein TraI
+  -- 6502 IncF plasmid conjugative transfer protein TraG
+  -- 15247 IncF plasmid conjugative transfer protein TraD
+  -- 58937 IncF plasmid conjugative transfer pilus assembly protein TraB
+  -- 66354 IncF plasmid conjugative transfer pilus assembly protein TraH
+  -- 191378 IncF plasmid conjugative transfer pilus assembly protein TraK
+  -- 208919 IncF plasmid conjugative transfer pilin acetylase TraX
+  -- 237673 IncF plasmid conjugative transfer pilus assembly protein TraE
+  -- 239125 IncF plasmid conjugative transfer fertility inhibition protein FinO
+  -- 249434 IncF plasmid conjugative transfer protein TrbB
+  -- 290305 hypothetical protein
+  -- 296647 hypothetical protein
+  -- 298972 hypothetical protein
+  -- 300576 IncF plasmid conjugative transfer mating signal transduction protein TraM
+  -- 309363 IncF plasmid conjugative transfer pilin protein TraA
+  -- 316035 hypothetical protein
+  -- 330247 hypothetical protein
+  -- 330836 hypothetical protein
+  -- 345015 IncF plasmid conjugative transfer protein TraQ
+  -- 345579 hypothetical protein
+  -- 353083 hypothetical protein
+  -- 363965 hypothetical protein
+
+
+19: 43
+  -- 343094 hypothetical protein
+  -- 295032 entry exclusion protein 2
+  -- 24469 Mobilization protein
+  -- 35650 hypothetical protein
+  -- 207447 Mobilization protein
+  -- 251684 hypothetical protein
+  -- 307134 hypothetical protein
+  -- 328875 Death on curing protein%2C Doc toxin
+  -- 344960 colicin immunity protein
+  -- 362389 RNA one modulator-like protein
+  -- 386667 hypothetical protein
+
+
+20: 45
+  -- 141384 Chromosome (plasmid) partitioning protein ParB
+  -- 150492 Chromate transport protein ChrA
+  -- 271020 Chromate transport protein ChrA
+  -- 296744 hypothetical protein
+  -- 315214 hypothetical protein
+  -- 318403 hypothetical protein
+  -- 326848 hypothetical protein
+  -- 345286 hypothetical protein
+  -- 122435 hypothetical protein
+  -- 185324 Resolvase
+  -- 358854 CcdA protein (antitoxin to CcdB)
+  -- 376326 hypothetical protein
+
+
+21: 46
+  -- 301067 hypothetical protein
+  -- 9538 IncF plasmid conjugative transfer pilus assembly protein TraC
+  -- 241430 IncF plasmid conjugative transfer pilus assembly protein TraV
+  -- 353090 hypothetical protein
+  -- 137208 IncF plasmid conjugative transfer pilus assembly protein TraU
+  -- 191380 IncF plasmid conjugative transfer pilus assembly protein TraK
+  -- 205972 hypothetical protein
+  -- 290430 IncF plasmid conjugative transfer protein TrbI
+  -- 319449 hypothetical protein
+  -- 346460 IncF plasmid conjugative transfer protein TrbE
+  -- 380160 hypothetical protein
+
+
+22: 63
+  -- 283141 hypothetical protein
+  -- 100930 Chromosome (plasmid) partitioning protein ParA
+  -- 131627 DNA replication protein
+  -- 141385 Chromosome (plasmid) partitioning protein ParB
+  -- 228172 Transposase InsD for insertion element IS2
+  -- 260974 hypothetical protein
+  -- 276037 hypothetical protein
+  -- 295475 Antitoxin HigA
+  -- 310230 Resolvase
+  -- 317346 Resolvase
+  -- 383245 hypothetical protein
+  -- 390669 hypothetical protein
+  -- 327672 mRNA interferase HigB
+
+
+23: 69
+  -- 6498 ATP-dependent Clp protease ATP-binding subunit PA0459%2C ClpC family
+  -- 35145 Inner membrane protein%2C KefB/KefC family
+  -- 100501 Peptidase S1%2C chymotrypsin:PDZ/DHR/GLGF domain precursor
+  -- 105513 FIG00798715: hypothetical protein
+  -- 136671 Mobile element protein
+  -- 158016 hypothetical protein
+  -- 165963 hypothetical protein
+  -- 232068 Uncharacterized membrane protein BPP1830
+  -- 283453 molecular chaperone
+  -- 283685 Mobile element protein
+  -- 364977 hypothetical protein
+  -- 262362 Cell division-associated%2C ATP-dependent zinc metalloprotease FtsH
+  -- 368107 Cell division-associated%2C ATP-dependent zinc metalloprotease FtsH
+  -- 288556 Thioredoxin 2
+  -- 269057 Predicted membrane protein
+  -- 135201 Peptidase%2C M48 family
+
+
+24: 70
+  -- 197076 hypothetical protein
+  -- 263076 Transcriptional regulator
+  -- 93878 DNA primase (EC 2.7.7.-)
+  -- 102639 Ribonucleotide reductase of class Ia (aerobic)%2C beta subunit (EC 1.17.4.1)
+  -- 112574 Thymidylate synthase (EC 2.1.1.45)
+  -- 116088 Phage exonuclease
+  -- 150024 DNA polymerase I 5'-3' exonuclease domain
+  -- 155125 hypothetical protein
+  -- 167488 hypothetical protein
+  -- 168338 hypothetical protein
+  -- 202682 hypothetical protein
+  -- 238902 hypothetical protein
+  -- 254558 DNA polymerase III epsilon subunit (EC 2.7.7.7)
+  -- 264167 hypothetical protein
+  -- 278074 Dihydrofolate reductase (EC 1.5.1.3)
+  -- 295063 FIG01049755: hypothetical protein
+  -- 296007 hypothetical protein
+  -- 305247 gene 66 protein
+  -- 305790 hypothetical protein
+  -- 308856 Phage NinX
+  -- 338064 hypothetical protein
+  -- 346279 hypothetical protein
+  -- 349371 hypothetical protein
+  -- 364005 hypothetical protein
+  -- 364090 hypothetical protein
+  -- 372214 hypothetical protein
+
+
+25: 71
+  -- 23977 IncF plasmid conjugative transfer protein TraN
+  -- 58947 IncF plasmid conjugative transfer pilus assembly protein TraB
+  -- 137221 IncF plasmid conjugative transfer pilus assembly protein TraU
+  -- 206331 IncF plasmid conjugative transfer pilus assembly protein TraK
+  -- 230441 IncF plasmid conjugative transfer protein TrbC
+  -- 233068 IncF plasmid conjugative transfer pilus assembly protein TraW
+  -- 241429 IncF plasmid conjugative transfer pilus assembly protein TraV
+  -- 290441 IncF plasmid conjugative transfer protein TrbI
+  -- 299718 hypothetical protein
+  -- 304061 hypothetical protein
+  -- 305995 hypothetical protein
+  -- 330860 hypothetical protein
+  -- 338489 hypothetical protein
+  -- 353835 hypothetical protein
+  -- 368938 hypothetical protein
+
+
+26: 72/77/78/79/80
+  -- 90537 Bll2902 protein
+  -- 129698 Oxidoreductase
+  -- 146122 Transcriptional regulator%2C LysR family
+  -- 269813 Putative inner membrane protein
+  -- 272364 hypothetical protein
+  -- 196910 Glutathione S-transferase (EC 2.5.1.18)
+  -- 146246 hypothetical protein
+  -- 242784 hypothetical protein
+  -- 260402 Peptide-methionine (S)-S-oxide reductase MsrA (EC 1.8.4.11)
+  -- 287771 Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)
+  -- 304969 hypothetical protein
+  -- 2953 hypothetical protein
+  -- 8596 Conjugative transfer protein TraI%2C relaxase
+  -- 9303 IncF plasmid conjugative transfer protein TraN
+  -- 11967 IncF plasmid conjugative transfer pilus assembly protein TraC
+  -- 25113 hypothetical protein
+  -- 27217 hypothetical protein
+  -- 43285 hypothetical protein
+  -- 46834 Recombinational DNA repair protein RecT (prophage associated)
+  -- 54209 putative DNA helicase
+  -- 58043 IncF plasmid conjugative transfer pilus assembly protein TraH
+  -- 65439 IncF plasmid conjugative transfer pilus assembly protein TraB
+  -- 72299 hypothetical protein
+  -- 76233 hypothetical protein
+  -- 78249 IncF plasmid conjugative transfer pilus assembly protein TraW
+  -- 110339 IncF plasmid conjugative transfer pilus assembly protein TraK
+  -- 111539 DNA recombination protein
+  -- 113362 IncF plasmid conjugative transfer pilus assembly protein TraF
+  -- 114525 putative transmembrane protein
+  -- 117416 Aerobic cobaltochelatase CobS subunit (EC 6.6.1.2)
+  -- 118715 hypothetical protein
+  -- 134563 Periplasmic thiol:disulfide interchange protein DsbA
+  -- 181726 hypothetical protein
+  -- 195806 hypothetical protein
+  -- 197407 hypothetical protein
+  -- 197408 Thiol:disulfide involved in conjugative transfer
+  -- 202922 hypothetical protein
+  -- 218751 hypothetical protein
+  -- 229627 hypothetical protein
+  -- 235791 hypothetical protein
+  -- 239353 hypothetical protein
+  -- 250341 Plasmid conjugative transfer endonuclease
+  -- 252240 hypothetical protein
+  -- 259138 hypothetical protein
+  -- 264313 signal peptidase I
+  -- 264950 hypothetical protein
+  -- 269264 hypothetical protein
+  -- 303646 hypothetical protein
+  -- 304841 hypothetical protein
+  -- 307314 hypothetical protein
+  -- 319992 Conjugative transfer protein TraA
+  -- 325837 hypothetical protein
+  -- 328300 hypothetical protein
+  -- 333029 hypothetical protein
+  -- 335021 hypothetical protein
+  -- 336127 hypothetical protein
+  -- 340407 hypothetical protein
+  -- 344418 hypothetical protein
+  -- 357987 hypothetical protein
+  -- 366119 hypothetical protein
+  -- 382802 hypothetical protein
+  -- 3600 hypothetical protein
+  -- 13129 hypothetical protein
+  -- 21743 ATP-dependent helicase DinG/Rad3
+  -- 41139 conserved hypothetical ATPase
+  -- 61823 Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+  -- 85256 Error-prone%2C lesion bypass DNA polymerase V (UmuC)
+  -- 86050 Chromosome (plasmid) partitioning protein ParA
+  -- 100402 hypothetical protein
+  -- 110338 replication protein A
+  -- 110685 hypothetical protein
+  -- 134551 Chromosome (plasmid) partitioning protein ParB
+  -- 165275 DNA replication terminus site-binding protein
+  -- 171029 RepFIB replication protein A
+  -- 171761 hypothetical protein
+  -- 176617 FIG00639546: hypothetical protein
+  -- 176618 hypothetical protein
+  -- 180148 Phage protein (ACLAME 466)
+  -- 195807 hypothetical protein
+  -- 201964 hypothetical protein
+  -- 218029 hypothetical protein
+  -- 220425 hypothetical protein
+  -- 227800 hypothetical protein
+  -- 234063 hypothetical protein
+  -- 235078 hypothetical protein
+  -- 244420 hypothetical protein
+  -- 248785 hypothetical protein
+  -- 255705 hypothetical protein
+  -- 255706 hypothetical protein
+  -- 256776 hypothetical protein
+  -- 258596 hypothetical protein
+  -- 262686 hypothetical protein
+  -- 264312 hypothetical protein
+  -- 264948 hypothetical protein
+  -- 264949 hypothetical protein
+  -- 269663 hypothetical protein
+  -- 275131 hypothetical protein
+  -- 275132 hypothetical protein
+  -- 278109 hypothetical protein
+  -- 283463 hypothetical protein
+  -- 283465 hypothetical protein
+  -- 283466 hypothetical protein
+  -- 286643 hypothetical protein
+  -- 287772 hypothetical protein
+  -- 287773 hypothetical protein
+  -- 293423 hypothetical protein
+  -- 296062 hypothetical protein
+  -- 300619 hypothetical protein
+  -- 300620 hypothetical protein
+  -- 308107 hypothetical protein
+  -- 309881 hypothetical protein
+  -- 310690 hypothetical protein
+  -- 315423 hypothetical protein
+  -- 316368 hypothetical protein
+  -- 318034 hypothetical protein
+  -- 319056 hypothetical protein
+  -- 319991 hypothetical protein
+  -- 322715 hypothetical protein
+  -- 323713 hypothetical protein
+  -- 323714 hypothetical protein
+  -- 324823 hypothetical protein
+  -- 325838 hypothetical protein
+  -- 325839 hypothetical protein
+  -- 325840 hypothetical protein
+  -- 328299 CcdB toxin protein
+  -- 329896 hypothetical protein
+  -- 333028 hypothetical protein
+  -- 335020 hypothetical protein
+  -- 337086 FIG00641289: hypothetical protein
+  -- 340405 hypothetical protein
+  -- 341360 hypothetical protein
+  -- 341361 hypothetical protein
+  -- 342421 hypothetical protein
+  -- 342422 hypothetical protein
+  -- 348477 hypothetical protein
+  -- 349480 hypothetical protein
+  -- 351513 CcdA protein (antitoxin to CcdB)
+  -- 352393 hypothetical protein
+  -- 354679 hypothetical protein
+  -- 356745 hypothetical protein
+  -- 359191 hypothetical protein
+  -- 365283 hypothetical protein
+  -- 365465 hypothetical protein
+  -- 368119 hypothetical protein
+  -- 368120 hypothetical protein
+  -- 375761 hypothetical protein
+  -- 375762 hypothetical protein
+  -- 377295 hypothetical protein
+  -- 384009 hypothetical protein
+  -- 390487 hypothetical protein
+  -- 395667 hypothetical protein
+  -- 84827 DNA polymerase III beta subunit (EC 2.7.7.7)
+  -- 140148 DNA recombination-dependent growth factor RdgC
+  -- 145479 Protein StbA
+  -- 168157 hypothetical protein
+  -- 181186 Methyl-directed repair DNA adenine methylase (EC 2.1.1.72)
+  -- 221791 hypothetical protein
+  -- 241800 hypothetical protein
+  -- 246836 hypothetical protein
+  -- 254715 hypothetical protein
+  -- 262690 hypothetical protein
+  -- 276049 hypothetical protein
+  -- 284986 hypothetical protein
+  -- 288584 hypothetical protein
+  -- 292455 hypothetical protein
+  -- 296766 hypothetical protein
+  -- 304842 hypothetical protein
+  -- 316369 hypothetical protein
+  -- 317319 hypothetical protein
+  -- 325687 hypothetical protein
+  -- 329897 hypothetical protein
+  -- 331002 hypothetical protein
+  -- 336130 hypothetical protein
+  -- 354681 hypothetical protein
+  -- 369110 hypothetical protein
+  -- 376500 hypothetical protein
+  -- 379086 hypothetical protein
+  -- 100798 hypothetical protein
+  -- 129672 rod shape determination protein
+  -- 138198 hypothetical protein
+  -- 142349 hypothetical protein
+  -- 208394 Signal peptidase I (EC 3.4.21.89)
+  -- 215555 hypothetical protein
+  -- 219704 hypothetical protein
+  -- 223431 FIG00641889: hypothetical protein
+  -- 233245 hypothetical protein
+  -- 253128 hypothetical protein
+  -- 253778 hypothetical protein
+  -- 262687 hypothetical protein
+  -- 262688 hypothetical protein
+  -- 262689 transcriptional activator
+  -- 291513 hypothetical protein
+  -- 296061 hypothetical protein
+  -- 305893 hypothetical protein
+  -- 309882 hypothetical protein
+  -- 319990 hypothetical protein
+  -- 340406 hypothetical protein
+  -- 363073 hypothetical protein
+  -- 378084 hypothetical protein
+
+
+27: 73
+  -- 43615 Sulfate permease
+  -- 70365 Arsenite/antimonite:H+ antiporter ArsB
+  -- 179445 hypothetical protein
+  -- 209811 Arsenic resistance protein ArsH
+  -- 293257 Arsenate reductase (EC 1.20.4.1) glutaredoxin-coupled%2C glutaredoxin-like family
+  -- 306276 Arsenical resistance operon repressor
+  -- 55890 Mobile element protein
+  -- 181705 hypothetical protein
+  -- 339263 hypothetical protein
+  -- 354533 hypothetical protein
+  -- 364100 hypothetical protein
+
+
+28: 81/82/83/84/86
+  -- 1084 hypothetical protein
+  -- 4431 hypothetical protein
+  -- 13486 hypothetical protein
+  -- 14449 hypothetical protein
+  -- 23676 Plasmid associated gene product APECO1_O1R37
+  -- 27660 hypothetical protein
+  -- 50649 hypothetical protein
+  -- 71940 IncF plasmid conjugative transfer pilus assembly protein TraB
+  -- 84251 IncF plasmid conjugative transfer pilus assembly protein TraK
+  -- 86051 Chromosome (plasmid) partitioning protein ParA
+  -- 94892 hypothetical protein
+  -- 99070 hypothetical protein
+  -- 102246 Predicted transcriptional regulators
+  -- 103031 IncF plasmid conjugative transfer pilus assembly protein TraU
+  -- 108703 hypothetical protein
+  -- 112946 hypothetical protein
+  -- 121592 Putative ATP-binding protein
+  -- 126215 hypothetical protein
+  -- 134553 Chromosome (plasmid) partitioning protein ParB
+  -- 146234 hypothetical protein
+  -- 147026 hypothetical protein
+  -- 148791 IncF plasmid conjugative transfer pilus assembly protein TraV
+  -- 149328 hypothetical protein
+  -- 152483 hypothetical protein
+  -- 152484 hypothetical protein
+  -- 156410 hypothetical protein
+  -- 158339 hypothetical protein
+  -- 168276 hypothetical protein
+  -- 168843 replication protein A
+  -- 168991 hypothetical protein
+  -- 169669 hypothetical protein
+  -- 176054 Methyl-directed repair DNA adenine methylase (EC 2.1.1.72)
+  -- 177053 hypothetical protein
+  -- 190469 IncF plasmid conjugative transfer pilus assembly protein TraE
+  -- 217169 hypothetical protein
+  -- 241098 hypothetical protein
+  -- 258732 hypothetical protein
+  -- 266543 hypothetical protein
+  -- 268951 hypothetical protein
+  -- 284959 hypothetical protein
+  -- 289559 hypothetical protein
+  -- 302850 hypothetical protein
+  -- 304968 hypothetical protein
+  -- 311747 hypothetical protein
+  -- 314640 hypothetical protein
+  -- 314641 hypothetical protein
+  -- 320975 hypothetical protein
+  -- 322294 hypothetical protein
+  -- 331668 hypothetical protein
+  -- 337283 hypothetical protein
+  -- 337285 hypothetical protein
+  -- 341568 hypothetical protein
+  -- 345559 hypothetical protein
+  -- 346592 hypothetical protein
+  -- 346594 hypothetical protein
+  -- 352522 hypothetical protein
+  -- 356679 hypothetical protein
+  -- 358104 hypothetical protein
+  -- 365376 hypothetical protein
+  -- 372755 hypothetical protein
+  -- 384707 hypothetical protein
+  -- 1543 IncF plasmid conjugative transfer protein TraG
+  -- 5888 Conjugative transfer protein TraI%2C relaxase
+  -- 8948 IncF plasmid conjugative transfer pilus assembly protein TraC
+  -- 12677 hypothetical protein
+  -- 21583 IncF plasmid conjugative transfer protein TraD
+  -- 40888 hypothetical protein
+  -- 46750 Putative kinase protein
+  -- 58042 IncF plasmid conjugative transfer pilus assembly protein TraH
+  -- 85303 Tellurium resistance protein
+  -- 98916 Putative peptidase
+  -- 112855 hypothetical protein
+  -- 124061 IncF plasmid conjugative transfer pilus assembly protein TraF
+  -- 139382 hypothetical protein
+  -- 183801 Outer membrane protein
+  -- 186717 hypothetical protein
+  -- 190719 HAD superfamily hydrolase
+  -- 201775 Thiol:disulfide involved in conjugative transfer
+  -- 208519 hypothetical protein
+  -- 210155 hypothetical protein
+  -- 226713 hypothetical protein
+  -- 229721 hypothetical protein
+  -- 235180 hypothetical protein
+  -- 239248 Lipoprotein
+  -- 252347 hypothetical protein
+  -- 260245 putative lipoprotein
+  -- 267003 hypothetical protein
+  -- 274948 hypothetical protein
+  -- 294472 hypothetical protein
+  -- 302851 hypothetical protein
+  -- 312957 hypothetical protein
+  -- 5129 hypothetical protein
+  -- 11989 Conjugative transfer protein TrbE
+  -- 20198 hypothetical protein
+  -- 20564 Type IV secretory pathway%2C VirD2 components (relaxase)
+  -- 21912 putative plasmid stabilization protein
+  -- 23651 Coupling protein VirD4%2C ATPase required for T-DNA transfer
+  -- 31341 ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+  -- 41142 hypothetical protein
+  -- 63429 hypothetical protein
+  -- 68781 Conjugative transfer protein TrbL
+  -- 73524 Integrase
+  -- 82683 Conjugative transfer protein TrbI
+  -- 101804 hypothetical protein
+  -- 117312 Conjugative transfer protein TrbB
+  -- 119523 hypothetical protein
+  -- 135300 Conjugative transfer protein TrbG
+  -- 150345 Transcriptional regulator%2C LysR family
+  -- 170212 Plasmid replication initiator protein
+  -- 179172 UPF0380 proteins YafZ and homologs
+  -- 187281 hypothetical protein
+  -- 203703 Conjugative transfer protein TrbJ
+  -- 215464 Conjugative transfer protein TrbF
+  -- 221744 ParA-like protein
+  -- 238146 hypothetical protein
+  -- 242572 Type IV secretory pathway%2C protease TraF
+  -- 253196 hypothetical protein
+  -- 254654 Glycosidases
+  -- 278052 CopG domain-containing protein
+  -- 302999 Conjugative transfer protein TrbC
+  -- 319651 Transcriptional regulator%2C Xre family
+  -- 320101 small multidrug resistance family (SMR) protein
+  -- 321049 Conjugative transfer protein TrbK
+  -- 335955 hypothetical protein
+  -- 336679 hypothetical protein
+  -- 338778 Conjugative transfer protein TrbK
+  -- 340468 Conjugative transfer protein TrbD
+  -- 346591 hypothetical protein
+  -- 347721 hypothetical protein
+  -- 368216 hypothetical protein
+  -- 75908 putative primase
+  -- 84881 hypothetical protein
+  -- 99069 hypothetical protein
+  -- 149332 Thiol:disulfide involved in conjugative transfer
+  -- 181217 hypothetical protein
+  -- 184867 hypothetical protein
+  -- 194171 hypothetical protein
+  -- 194172 hypothetical protein
+  -- 207826 Phage-related protein
+  -- 211207 hypothetical protein
+  -- 224803 hypothetical protein
+  -- 228405 hypothetical protein
+  -- 233353 hypothetical protein
+  -- 233354 hypothetical protein
+  -- 240064 hypothetical protein
+  -- 251232 hypothetical protein
+  -- 252348 hypothetical protein
+  -- 261398 hypothetical protein
+  -- 262061 hypothetical protein
+  -- 263690 hypothetical protein
+  -- 264340 hypothetical protein
+  -- 264980 hypothetical protein
+  -- 267038 hypothetical protein
+  -- 272442 hypothetical protein
+  -- 273281 hypothetical protein
+  -- 281194 hypothetical protein
+  -- 281195 hypothetical protein
+  -- 283464 hypothetical protein
+  -- 286644 hypothetical protein
+  -- 287186 hypothetical protein
+  -- 287187 hypothetical protein
+  -- 290785 hypothetical protein
+  -- 290786 hypothetical protein
+  -- 300119 hypothetical protein
+  -- 302854 hypothetical protein
+  -- 307221 hypothetical protein
+  -- 307380 hypothetical protein
+  -- 315565 hypothetical protein
+  -- 320974 hypothetical protein
+  -- 322839 hypothetical protein
+  -- 324948 hypothetical protein
+  -- 327535 hypothetical protein
+  -- 328373 hypothetical protein
+  -- 331746 hypothetical protein
+  -- 341569 hypothetical protein
+  -- 343518 hypothetical protein
+  -- 348076 hypothetical protein
+  -- 348547 hypothetical protein
+  -- 352521 hypothetical protein
+  -- 354770 hypothetical protein
+  -- 356931 hypothetical protein
+  -- 367231 hypothetical protein
+  -- 377388 hypothetical protein
+  -- 60467 DNA-cytosine methyltransferase (EC 2.1.1.37)
+  -- 77332 hypothetical protein
+  -- 92550 hypothetical protein
+  -- 151885 hypothetical protein
+  -- 174065 hypothetical protein
+  -- 266351 hypothetical protein
+  -- 324737 hypothetical protein
+  -- 326870 hypothetical protein
+  -- 333110 hypothetical protein
+  -- 360281 hypothetical protein
+  -- 375104 hypothetical protein
+  -- 376313 Hok/Gef-like protein
+  -- 389564 hypothetical protein
+  -- 3654 hypothetical protein
+  -- 38050 hypothetical protein
+  -- 40710 hypothetical protein
+  -- 167263 hypothetical protein
+  -- 255811 hypothetical protein
+  -- 262795 hypothetical protein
+  -- 282881 hypothetical protein
+  -- 296848 hypothetical protein
+  -- 305962 hypothetical protein
+  -- 337284 hypothetical protein
+  -- 351723 hypothetical protein
+  -- 385907 hypothetical protein
+
+

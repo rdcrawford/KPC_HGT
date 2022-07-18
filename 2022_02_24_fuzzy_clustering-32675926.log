@@ -1,0 +1,8 @@
+Warning message:
+In fanny(distMat, k = 50, memb.exp = 25, metric = "euclidean", maxit = 10000,  :
+  FANNY algorithm has not converged in 'maxit' = 10000 iterations
+2.07 GB
+Error in cut.default(x, breaks = breaks, include.lowest = T) : 
+  'breaks' are not unique
+Calls: PlotMbrMat ... scale_colours -> matrix -> scale_vec_colours -> cut -> cut.default
+Execution halted
